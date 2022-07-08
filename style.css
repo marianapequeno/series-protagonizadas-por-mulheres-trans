@@ -53,10 +53,9 @@ ul{
   box-shadow: 15px 10px 30px #292929;
   text-align: center;
   border-radius: 10px;
-  max-width: 400px;
   padding: 15px;
   margin: 15px;
-  flex: 1;
+  flex: 0 1 400px;
 }
 
 li{
